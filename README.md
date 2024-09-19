@@ -52,6 +52,6 @@ Coverage: The financial protection offered by the insurance policy.
 Claim: A formal request from the policyholder to the insurer, asking for compensation for covered losses or damages.
 
 ## 📋 Data Summary
-[Data Model]()
+[Data Model](https://github.com/Niraj-Mittapelly/Shield-Insurance-Analysis/blob/main/Data%20Model.png)
 
 
