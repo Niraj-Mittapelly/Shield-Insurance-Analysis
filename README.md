@@ -5,6 +5,8 @@ The primary goal of this project is to conduct a comprehensive analysis of custo
 ## 📊 Shield Insurance Report
 [Overview Dashboard](https://github.com/Niraj-Mittapelly/Shield-Insurance-Analysis/blob/main/Shield%20Insurance.pdf)
 
+[Live Report](https://app.powerbi.com/view?r=eyJrIjoiZWRmM2NkYzYtZGIzNS00MzRmLWJiZWYtYmJhNjFkZDRlZWQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## ⚒️ Tools Utilized
 MS Excel
 
